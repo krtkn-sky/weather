@@ -1,9 +1,5 @@
 # Vue Weather App
 
-![image](https://github.com/krtkn-sky/weather/assets/121655285/3a11aab5-da28-4d9c-b59f-8ad618d86ed9)
-
-![image](https://github.com/krtkn-sky/weather/assets/121655285/0b0be612-906b-40c2-94ee-329e3f757db2)
-
 A simple Vue.js application that allows users to search for the current weather in a city using the OpenWeather API.
 
 ## Features
@@ -48,6 +44,9 @@ A simple Vue.js application that allows users to search for the current weather 
 
 ## Screenshots
 
+![image](https://github.com/krtkn-sky/weather/assets/121655285/3a11aab5-da28-4d9c-b59f-8ad618d86ed9)
+
+![image](https://github.com/krtkn-sky/weather/assets/121655285/0b0be612-906b-40c2-94ee-329e3f757db2)
 
 ## Technologies Used
 
